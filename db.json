@@ -1,0 +1,37 @@
+{
+  "streams": [
+    {
+      "title": "The stream",
+      "description": "new",
+      "id": 1
+    },
+    {
+      "title": "welcome",
+      "description": "to the stream",
+      "id": 2
+    },
+    {
+      "title": "Programmatic Navigation new",
+      "description": "you should not see this on the form page",
+      "userId": "109277788412304439388",
+      "id": 4
+    },
+    {
+      "title": "Me Streaming Component Reuse",
+      "description": "Watch me refactor some component",
+      "id": 5
+    },
+    {
+      "title": "Joker",
+      "description": "Joakin Phoenix",
+      "userId": "109277788412304439388",
+      "id": 6
+    },
+    {
+      "title": "Mario",
+      "description": "FrontEnd developer",
+      "userId": "109277788412304439388",
+      "id": 7
+    }
+  ]
+}
